@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\22-7-23-Assign-13\22-7-23-Assign-13\bin\Debug\22-7-23-Assign-13.exe.config
+C:\Users\hp\source\repos\22-7-23-Assign-13\22-7-23-Assign-13\bin\Debug\22-7-23-Assign-13.exe
+C:\Users\hp\source\repos\22-7-23-Assign-13\22-7-23-Assign-13\bin\Debug\22-7-23-Assign-13.pdb
+C:\Users\hp\source\repos\22-7-23-Assign-13\22-7-23-Assign-13\obj\Debug\22-7-23-Assign-13.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\22-7-23-Assign-13\22-7-23-Assign-13\obj\Debug\22-7-23-Assign-13.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\22-7-23-Assign-13\22-7-23-Assign-13\obj\Debug\22-7-23-Assign-13.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\22-7-23-Assign-13\22-7-23-Assign-13\obj\Debug\22-7-23-Assign-13.exe
+C:\Users\hp\source\repos\22-7-23-Assign-13\22-7-23-Assign-13\obj\Debug\22-7-23-Assign-13.pdb
